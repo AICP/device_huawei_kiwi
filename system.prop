@@ -132,9 +132,6 @@ ro.use_data_netmgrd=true
 persist.radio.add_power_save=1
 persist.radio.modem.cap=7E442
 
-# Recents
-ro.recents.grid=true
-
 # Tethering
 sys.usb.rps_mask=10
 persist.sys.usb.config.extra=none
